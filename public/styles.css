@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #tabs {
+    margin: 20px 0;
+  }
+  
+  #tabs button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #recordsTable {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px 0;
+  }
+  
+  #recordsTable, #recordsTable th, #recordsTable td {
+    border: 1px solid #ddd;
+  }
+  
+  #recordsTable th, #recordsTable td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  #form {
+    margin-top: 20px;
+  }
+  
+  /* Add additional styling as needed */
+  
